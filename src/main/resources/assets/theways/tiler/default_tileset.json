@@ -1,0 +1,26 @@
+[
+  {
+    "resourceName": "AAAA",
+    "spawnability": 1000
+  },
+  {
+    "resourceName": "PAAA",
+    "spawnability": 1
+  },
+  {
+    "resourceName": "AAPP",
+    "spawnability": 5
+  },
+  {
+    "resourceName": "PAPA",
+    "spawnability": 100
+  },
+  {
+    "resourceName": "APPP",
+    "spawnability": 15
+  },
+  {
+    "resourceName": "PPPP",
+    "spawnability": 5
+  }
+]
